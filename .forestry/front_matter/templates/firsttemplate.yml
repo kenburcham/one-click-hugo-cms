@@ -1,4 +1,10 @@
 ---
 label: FirstTemplate
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+  description: What is your name?
