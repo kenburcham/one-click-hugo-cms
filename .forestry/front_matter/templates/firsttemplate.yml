@@ -8,3 +8,5 @@ fields:
     required: false
   label: Name
   description: What is your name?
+pages:
+- content/first-post.md
